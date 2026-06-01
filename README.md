@@ -7,7 +7,7 @@ Il modulo (dimensioni 50x50 mm) è progettato per colmare il divario tecnologico
 ---
 
 ## Caratteristiche Principali (Features)
-* **Power Path Management:** Commutazione automatica tra sorgente esterna (5V) e batteria senza interruzioni di servizio (funzione UPS DC).
+* **Power Path Management:** Commutazione automatica tra sorgente esterna (5V) e batteria senza interruzioni di servizio.
 * **Conversione DC-DC:** Uscita stabile a 5V tramite convertitore Buck-Boost (fino a 1.3A continui) operante in modo trasparente indipendentemente dallo stato di carica della cella.
 * **Ricarica Li-Po 1S:** Algoritmo CC-CV integrato con completamento carica a 4.2V.
 * **Protezione Hardware (BMS):** Modulo di protezione contro sovrascarica (Cut-off < 2.4V), sovraccarica (> 4.3V) e cortocircuiti.
