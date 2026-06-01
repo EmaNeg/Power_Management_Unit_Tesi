@@ -1,4 +1,4 @@
-# Portable Power Management Unit (PMU) per Sistemi Embedded
+# Power Management Unit (PMU) per Sistemi Embedded
 
 Questo repository contiene tutti i file di progettazione hardware, le simulazioni e le librerie software per una **Power Management Unit (PMU) integrata**, sviluppata come progetto di Tesi di Laurea Triennale in Ingegneria Elettronica presso l'Università degli Studi di Genova.
 
