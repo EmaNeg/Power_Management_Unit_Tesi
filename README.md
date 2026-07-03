@@ -54,8 +54,9 @@ Il circuito è stato collaudato strumentalmente, registrando ottimi risultati in
 
 <div align="center">
   <!-- Aggiungi nella repo l'immagine dei grafici dell'oscilloscopio se lo desideri -->
-  <img src="Docs/Images/ripple_uscita_freq.png" alt="Analisi Ripple Oscilloscopio" width="400"/>
-  <img src="Docs/Images/risp_gradino_bat.png" alt="Risposta al Gradino" width="400"/>
+  <img src="Docs/Images/ripple_uscita_freq_black.png" alt="Analisi Ripple Oscilloscopio" width="400"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Docs/Images/risp_gradino_bat_black.png" alt="Risposta al Gradino" width="400"/>
 </div>
 
 ---
