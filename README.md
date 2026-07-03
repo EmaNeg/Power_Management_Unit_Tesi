@@ -7,9 +7,9 @@
 
 <div align="center">
   <!-- Sostituisci con i nomi reali dei file immagine esportati -->
-  <img src="Docs/top_render.png" alt="Render Top PCB" width="250"/>
+  <img src="Docs/Images/top_render.png" alt="Render Top PCB" width="250"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Docs/bottom_render.png" alt="Render Bottom PCB" width="250"/>
+  <img src="Docs/Images/bottom_render.png" alt="Render Bottom PCB" width="250"/>
 </div>
 
 <br>
