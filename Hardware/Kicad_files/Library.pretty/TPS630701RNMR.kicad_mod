@@ -1,0 +1,455 @@
+(footprint "TPS630701RNMR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "RNM0015A")
+	(tags "Integrated Circuit")
+	(property "Reference" "REF**"
+		(at 1.45 2.583 180)
+		(layer "F.SilkS")
+		(uuid "232128de-e9b8-42a5-8cb0-0ca09946a440")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "TPS63070RNMR"
+		(at 0.194 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5fb0e4d8-139b-47c0-8615-c823d92bf832")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.ti.com/lit/gpn/tps63070"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6dec6e02-b3f1-4870-8dfc-9f0bccb1c276")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Wide Input Voltage (2V-16V) Buck-Boost Converter"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a403cc79-2b6b-450a-a022-b81ec706250e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "debab06d-d8a4-48a6-a701-991464834601")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Texas Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fc3580c3-1718-4f8e-b281-be7ed8fbd138")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "TPS63070RNMR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f93acba6-dfcb-454a-a757-1d567b1c39cd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "595-TPS63070RNMR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "12bb6941-a84a-460a-8162-afdcfcd87ffc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS63070RNMR?qs=LuYMPh7GGMS51GHntBDRnQ%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a9c2d109-7f82-4ca5-81a6-0c13c231179d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" "TPS63070RNMR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e00797d5-c26c-4ba8-87f4-1073fdb1abf8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tps63070rnmr/texas-instruments?utm_currency=USD&region=nac"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "50052498-bbd2-49ef-9b4d-65dc5b647ace")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.675 -0.9)
+		(end -1.675 -0.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ef62c247-18c2-4600-8860-ef2526e0cd4e")
+	)
+	(fp_line
+		(start -1.675 -0.7)
+		(end -1.675 -0.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "70771534-7d77-4f2f-a1a6-687056eafdc2")
+	)
+	(fp_line
+		(start -0.725 -1.5)
+		(end -0.475 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7b670c82-72ec-4460-992f-cc88dbb84ca2")
+	)
+	(fp_line
+		(start -0.725 -1)
+		(end -0.725 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "394190d4-8d21-43e0-9d54-aca0f0f349cd")
+	)
+	(fp_line
+		(start -0.725 1.5)
+		(end -0.725 1.225)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "75f8fb04-944a-4cfb-bd8c-70561dfc36ab")
+	)
+	(fp_line
+		(start -0.438 1.5)
+		(end -0.725 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "860624b1-08e9-4752-ad15-55b40df94c61")
+	)
+	(fp_line
+		(start 1.775 -1.5)
+		(end 1.775 -0.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2c970801-9334-40bc-ab3f-aac639cab096")
+	)
+	(fp_line
+		(start 1.775 0.75)
+		(end 1.775 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5f84d79e-4e61-4398-9e33-461d87b50da8")
+	)
+	(fp_arc
+		(start -1.675 -0.9)
+		(mid -1.575 -0.8)
+		(end -1.675 -0.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "73ff21cc-6d18-4e3d-ac0c-23b382fd5248")
+	)
+	(fp_arc
+		(start -1.675 -0.7)
+		(mid -1.775 -0.8)
+		(end -1.675 -0.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5581b2c0-7759-41d2-832d-e68c305fb462")
+	)
+	(fp_line
+		(start -1.5 -2)
+		(end 2.5 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d95e3210-5e87-4d88-8603-6ac7acc9c9eb")
+	)
+	(fp_line
+		(start -1.5 2)
+		(end -1.5 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "879fd6e2-2eb2-4749-8742-e676b5d102e1")
+	)
+	(fp_line
+		(start 2.5 -2)
+		(end 2.5 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b16aeb77-d31f-4a49-a164-f3be4df51de3")
+	)
+	(fp_line
+		(start 2.5 2)
+		(end -1.5 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5692d6e5-49f3-482b-a652-347798319d54")
+	)
+	(fp_line
+		(start -0.725 -1.5)
+		(end 1.775 -1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f102c74b-1f9e-450d-beaa-ee49ec002c26")
+	)
+	(fp_line
+		(start -0.725 1.5)
+		(end -0.725 -1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "13257e7b-2e66-4146-922d-483fb5ea6c7b")
+	)
+	(fp_line
+		(start 1.775 -1.5)
+		(end 1.775 1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9349ef6a-f6b6-4622-b3d3-72b24ebc05f8")
+	)
+	(fp_line
+		(start 1.775 1.5)
+		(end -0.725 1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9bc568cb-47bf-486e-b66f-6b786a8c9662")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.194 0 180)
+		(layer "F.Fab")
+		(uuid "6e3aac57-148f-4db7-8c55-3079443d4bf7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.438 -0.75 90)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ed60801c-257f-4a2b-a67a-e3be91c903a6")
+	)
+	(pad "2" smd rect
+		(at -0.438 -0.25 90)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d12b963c-fd83-48d7-8107-00f2de1e1b2f")
+	)
+	(pad "3" smd rect
+		(at -0.438 0.25 90)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d6c89641-05fb-484d-be3a-cc210f86cf11")
+	)
+	(pad "4" smd rect
+		(at -0.438 0.75 90)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5f22963f-50c0-49da-9e99-4674a68d9b5f")
+	)
+	(pad "5" smd rect
+		(at -0.012 1.4)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b8017f46-28cd-4272-ac9b-52127e406528")
+	)
+	(pad "6" smd rect
+		(at 0.488 1.4)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "66496245-ad85-47b6-8928-200ee9873d9b")
+	)
+	(pad "7" smd rect
+		(at 0.988 1.4)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "83bbab2c-a9ca-4846-bd54-effebc37d5cd")
+	)
+	(pad "8" smd rect
+		(at 1.488 1.4)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f19a63cd-b2f1-47df-88f4-79f5f606cc6b")
+	)
+	(pad "9" smd rect
+		(at 1.488 0.5 90)
+		(size 0.25 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "754b72e3-a774-4f62-bef6-aa0277d356b1")
+	)
+	(pad "10" smd rect
+		(at 1.313 0 90)
+		(size 0.25 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "57653619-6822-4b77-b6ad-cb6e445e5748")
+	)
+	(pad "11" smd rect
+		(at 1.488 -0.5 90)
+		(size 0.25 1.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a225db14-f495-4476-a482-a9c52f13ed83")
+	)
+	(pad "12" smd rect
+		(at 1.488 -1.4)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "62e2aa25-104b-4c51-8f47-87ba00920776")
+	)
+	(pad "13" smd rect
+		(at 0.988 -1.4)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d5132cae-4951-464e-a681-6c06294efa4d")
+	)
+	(pad "14" smd rect
+		(at 0.488 -1.4)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "382dd2f5-0eb5-4f12-9126-e9bd957188a6")
+	)
+	(pad "15" smd rect
+		(at -0.012 -1.4)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ecaac780-c0ad-4227-9e38-b44ebb3d1e9e")
+	)
+	(pad "16" smd rect
+		(at 1.238 -1.225)
+		(size 0.25 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9df7488d-20e6-4daa-8b60-6c8d7462fd80")
+	)
+	(pad "17" smd rect
+		(at 1.238 1.225)
+		(size 0.25 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9e86e2e4-1236-4124-865c-5b9ebcec2baa")
+	)
+	(embedded_fonts no)
+	(model "${COMP_ENGINE}/TPS63070RNMR/TPS63070RNMR.stp"
+		(offset
+			(xyz 0.7099999679 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -161,7 +161,7 @@
 	(net 37 "Net-(U1-CS)")
 	(net 38 "unconnected-(U1-TD-Pad4)")
 	(net 39 "Net-(J1-Pin_2)")
-	(footprint "Capacitor_SMD:C_0603_1608Metric"
+	(footprint "Library:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "0138860e-2a27-4e49-98aa-87d29d841418")
 		(at 89.08 72.58 180)
@@ -360,7 +360,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A"
+	(footprint "Library:CP_EIA-3216-18_Kemet-A"
 		(layer "F.Cu")
 		(uuid "052f0dfe-2f3e-40cb-9f65-d8996026e3c8")
 		(at 86.145259 53.11684 90)
@@ -580,7 +580,7 @@
 			)
 		)
 	)
-	(footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels"
+	(footprint "Library:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels"
 		(layer "F.Cu")
 		(uuid "06646fbc-e5c3-429d-8efc-8c636c468add")
 		(at 85.345259 70.16434 -90)
@@ -884,7 +884,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Left"
+	(footprint "Library:PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Left"
 		(layer "F.Cu")
 		(uuid "0e61e71a-127a-44fd-8de8-100cd54297bc")
 		(at 89.387759 43.78184 -90)
@@ -1284,7 +1284,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "12dac9b4-1a11-4e66-b1ad-ecd753f63738")
 		(at 104.120259 67.56434)
@@ -1485,7 +1485,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_0603_1608Metric"
+	(footprint "Library:LED_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "14a32a7e-5054-44e9-b941-720d96042c27")
 		(at 96.0625 49.6)
@@ -1721,7 +1721,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23-5"
+	(footprint "Library:SOT-23-5"
 		(layer "F.Cu")
 		(uuid "19509b05-c284-4033-9354-0051fdb80e81")
 		(at 98.045259 44.02684 180)
@@ -2068,7 +2068,7 @@
 			)
 		)
 	)
-	(footprint "Diode_SMD:D_SMA"
+	(footprint "Library:D_SMA"
 		(layer "F.Cu")
 		(uuid "1a93aea6-ac53-4574-a976-a5e7e280808f")
 		(at 91.045259 54.46434 180)
@@ -2342,7 +2342,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric"
+	(footprint "Library:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "2798b1e1-f08c-45b3-9e22-5436a2d8c5d8")
 		(at 101.749973 43.850759 90)
@@ -2542,7 +2542,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23-GATE"
+	(footprint "Library:SOT-23-GATE"
 		(layer "F.Cu")
 		(uuid "29281930-6b76-4c9c-b0a4-269b090b53d9")
 		(at 89.495259 61.91434 180)
@@ -2905,7 +2905,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "2f5f1757-ad16-4133-a721-62927423325c")
 		(at 110.445259 60.33934 90)
@@ -3105,7 +3105,7 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D2.0mm"
+	(footprint "Library:TestPoint_Pad_D2.0mm"
 		(layer "F.Cu")
 		(uuid "32000651-9765-44e2-971e-d7cc184964db")
 		(at 97.145259 60.76434)
@@ -3198,7 +3198,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "KF301:KF3012P"
+	(footprint "Library:KF3012P"
 		(layer "F.Cu")
 		(uuid "32e08fd4-3d29-41d5-bdc3-40b87a367ba3")
 		(at 76.6 39.1 -90)
@@ -3412,7 +3412,7 @@
 			)
 		)
 	)
-	(footprint "Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder"
+	(footprint "Library:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "3cb625c3-9454-4001-81cd-5ac9fc91d5d4")
 		(at 97.945259 56.26434)
@@ -3612,7 +3612,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "4570dc81-9bcc-4152-a903-ce6f4117a9f2")
 		(at 104.460259 66.26434 180)
@@ -3813,7 +3813,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric"
+	(footprint "Library:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "458a3c02-1af2-439f-9f7d-792108cbb300")
 		(at 107.195259 48.81434 180)
@@ -4013,7 +4013,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "48069f0a-4a70-432b-b70f-f4977785111d")
 		(at 92.71 61.3)
@@ -4213,7 +4213,7 @@
 			)
 		)
 	)
-	(footprint "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
+	(footprint "Library:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
 		(layer "F.Cu")
 		(uuid "5527493e-bc9b-4068-8721-d181465d065f")
 		(at 111.96 76.84)
@@ -4439,7 +4439,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
+	(footprint "Library:MountingHole_2.2mm_M2_DIN965_Pad"
 		(layer "F.Cu")
 		(uuid "5b4df89f-ccdd-4bdc-ae13-6ed48b2a8b52")
 		(at 120.495259 31.81434)
@@ -4545,7 +4545,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric"
+	(footprint "Library:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "5c0e6c5b-1928-4763-8804-4afac2083f12")
 		(at 107.195259 61.16434 180)
@@ -4734,7 +4734,7 @@
 			)
 		)
 	)
-	(footprint "TerminalBlock:TerminalBlock_Xinya_XY308-2.54-5P_1x05_P2.54mm_Horizontal"
+	(footprint "Library:TerminalBlock_Xinya_XY308-2.54-5P_1x05_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5e00cf71-7a17-4a44-b10f-a096a7a0f52c")
 		(at 118.862759 70.14434 90)
@@ -5228,7 +5228,7 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D2.0mm"
+	(footprint "Library:TestPoint_Pad_D2.0mm"
 		(layer "F.Cu")
 		(uuid "60753b6d-2d8c-4825-9061-a8ac95565f05")
 		(at 101.26 69.81)
@@ -5321,7 +5321,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23-6"
+	(footprint "Library:SOT-23-6"
 		(layer "F.Cu")
 		(uuid "6b537e5f-1b04-49f9-b8c4-15a9b0f25b80")
 		(at 92.795259 65.37684 180)
@@ -5667,7 +5667,7 @@
 			)
 		)
 	)
-	(footprint "Loghi:MAICXEN_logo"
+	(footprint "Library:MAICXEN_logo"
 		(layer "F.Cu")
 		(uuid "6e429ded-bc8a-4cc3-ad25-99296079e53b")
 		(at 80.556738 39.047992)
@@ -7114,7 +7114,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_Array_Convex_4x0402"
+	(footprint "Library:R_Array_Convex_4x0402"
 		(layer "F.Cu")
 		(uuid "7278e030-f44c-4f16-97c9-0bc77c35ee7c")
 		(at 95.17 70.1)
@@ -7369,7 +7369,7 @@
 			)
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "72d8e1d8-0aec-4a18-869c-3e8e28f59a7a")
 		(at 85.745259 65.41434)
@@ -7653,7 +7653,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric"
+	(footprint "Library:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "743dddc7-2bb2-43dc-a0b3-273de0f013e2")
 		(at 99.458881 51.622157)
@@ -7853,7 +7853,7 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_0603_1608Metric"
+	(footprint "Library:LED_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "761a349d-4ee2-497f-962b-a252e270eb9c")
 		(at 96.035259 51.62684 180)
@@ -8089,7 +8089,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric"
+	(footprint "Library:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "7c06aaad-3ac4-432f-960d-c249649bb442")
 		(at 107.195259 63.21434 180)
@@ -8278,7 +8278,7 @@
 			)
 		)
 	)
-	(footprint "KF301:KF3012P"
+	(footprint "Library:KF3012P"
 		(layer "F.Cu")
 		(uuid "7f12fc8f-abef-4f64-a626-b2636a14b6b6")
 		(at 76.6 64.1 -90)
@@ -8492,7 +8492,7 @@
 			)
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "801da6bb-68ce-466e-ad23-a69c16222fc6")
 		(at 85.745259 62.86434)
@@ -8776,7 +8776,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric"
+	(footprint "Library:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "8536e38a-3dc7-4602-a014-6f32b5b3c97e")
 		(at 107.195259 46.71434 180)
@@ -8976,7 +8976,7 @@
 			)
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "8612baa6-3d40-4c8e-9be7-269b11d8605a")
 		(at 109.145259 43.71434 90)
@@ -9260,7 +9260,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "88833375-e937-409a-9d17-c369a105d0ed")
 		(at 111.545259 53.41434 180)
@@ -9460,7 +9460,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0805_2012Metric"
+	(footprint "Library:C_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "95f7e092-c013-4392-8456-0dd6d53d60ec")
 		(at 107.195259 50.91434 180)
@@ -9660,7 +9660,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "9818b11a-5825-46c8-a243-34e206c11547")
 		(at 88.620259 65.41434 180)
@@ -9860,7 +9860,7 @@
 			)
 		)
 	)
-	(footprint "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
+	(footprint "Library:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
 		(layer "F.Cu")
 		(uuid "9e5e35c5-f44b-4a26-94da-d773692346da")
 		(at 114.785 76.84)
@@ -10086,7 +10086,7 @@
 			)
 		)
 	)
-	(footprint "TPS63070RNMR:TPS630701RNMR"
+	(footprint "Library:TPS630701RNMR"
 		(layer "F.Cu")
 		(uuid "a4b0477a-a725-483c-a3c5-db96cb4c6620")
 		(at 110.945259 56.04734 180)
@@ -10588,7 +10588,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "ab7e37c4-b1d1-4014-bf90-5b601037e353")
 		(at 90.145259 65.89434 90)
@@ -10788,7 +10788,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
+	(footprint "Library:MountingHole_2.2mm_M2_DIN965_Pad"
 		(layer "F.Cu")
 		(uuid "b46d5d07-7b59-48f0-b0e2-19ae40c3f386")
 		(at 75.495259 31.81434)
@@ -10894,7 +10894,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Button_Switch_SMD:SW_DIP_SPSTx02_Slide_KingTek_DSHP02TS_W7.62mm_P1.27mm"
+	(footprint "Library:SW_DIP_SPSTx02_Slide_KingTek_DSHP02TS_W7.62mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "bac0f4b3-d6d5-4942-9635-9c94eba0b1fe")
 		(at 117.695259 52.61434 -90)
@@ -11219,7 +11219,7 @@
 			)
 		)
 	)
-	(footprint "FS8205:FS8205"
+	(footprint "Library:FS8205"
 		(layer "F.Cu")
 		(uuid "bcd0ada8-617a-4cf2-b634-0e68cb36ef21")
 		(at 99.525 65.3)
@@ -11558,7 +11558,7 @@
 			)
 		)
 	)
-	(footprint "Inductor_SMD:L_Coilcraft_XxL4020"
+	(footprint "Library:L_Coilcraft_XxL4020"
 		(layer "F.Cu")
 		(uuid "c3ce2025-3985-455d-871b-a82284ae2889")
 		(at 103.645259 56.06434 -90)
@@ -11760,7 +11760,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "c50ca710-1005-491c-ad1b-3fd88962a6f3")
 		(at 95.738737 46.844151)
@@ -11960,7 +11960,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "c5fae62a-07e0-4348-b7f5-1ed640486598")
 		(at 104.460259 65.21434 180)
@@ -12160,7 +12160,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric"
+	(footprint "Library:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "c986cd7e-a1bd-4187-bea6-44ebe1e9215a")
 		(at 99.462919 49.596386)
@@ -12360,7 +12360,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric"
+	(footprint "Library:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "d1920008-76cd-4516-99bf-8f5cb2817395")
 		(at 94.320603 43.841945 90)
@@ -12560,7 +12560,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "d4ea8a3c-5817-4fb4-b72f-4e995b7a217f")
 		(at 96.445259 65.36434)
@@ -12760,7 +12760,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric"
+	(footprint "Library:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "dbc7ecbc-c6f6-4469-923c-e4d502292038")
 		(at 107.545259 54.51434 -90)
@@ -12960,7 +12960,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "dcd1acc4-4e22-4324-a0d3-780b8bcf8829")
 		(at 110.470259 49.86434)
@@ -13160,7 +13160,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
+	(footprint "Library:MountingHole_2.2mm_M2_DIN965_Pad"
 		(layer "F.Cu")
 		(uuid "dcd7ac8a-4f6c-4584-a189-0d39ea1f6b9b")
 		(at 120.495259 76.81434)
@@ -13266,7 +13266,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
+	(footprint "Library:MountingHole_2.2mm_M2_DIN965_Pad"
 		(layer "F.Cu")
 		(uuid "de533cc5-ab40-4dae-9438-a8f4c3c79176")
 		(at 75.495259 76.81434)
@@ -13372,7 +13372,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D2.0mm"
+	(footprint "Library:TestPoint_Pad_D2.0mm"
 		(layer "F.Cu")
 		(uuid "dee0d1d6-f989-47a9-87c3-37ba60c23d9d")
 		(at 105.770259 42.26434)
@@ -13465,7 +13465,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Loghi:UniGe_logo"
+	(footprint "Library:UniGe_logo"
 		(layer "F.Cu")
 		(uuid "e683ec4d-4db9-4e14-8271-f26d59e88141")
 		(at 94.924436 33.728791)
@@ -13673,7 +13673,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Diode_SMD:D_SMA"
+	(footprint "Library:D_SMA"
 		(layer "F.Cu")
 		(uuid "e82eea8b-e692-4035-8c23-d6f86e099d3c")
 		(at 91.045259 58.11434 180)
@@ -13947,7 +13947,7 @@
 			)
 		)
 	)
-	(footprint "KF301:KF3012P"
+	(footprint "Library:KF3012P"
 		(layer "F.Cu")
 		(uuid "ebcbfb4f-d332-4772-bf81-0689607f7790")
 		(at 119.4 44.2 90)
@@ -14161,7 +14161,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric"
+	(footprint "Library:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "edc09061-a6e6-454d-bb08-e397e060677c")
 		(at 107.545259 57.53934 90)
@@ -14361,7 +14361,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "f18674c2-486e-4b3f-ba76-a284748cbcf1")
 		(at 92.72 62.35)
@@ -14561,7 +14561,7 @@
 			)
 		)
 	)
-	(footprint "MAX17048G_T10:SON50P200X200X80-9N"
+	(footprint "Library:SON50P200X200X80-9N"
 		(layer "F.Cu")
 		(uuid "f1daea61-0feb-400e-9d9d-abeae80713fd")
 		(at 90.785 70.1)
@@ -14956,7 +14956,7 @@
 			)
 		)
 	)
-	(footprint "KF301:KF3012P"
+	(footprint "Library:KF3012P"
 		(layer "F.Cu")
 		(uuid "f22bf25b-0284-467d-938c-f09e1787f6a1")
 		(at 76.6 51.6 -90)
@@ -15170,7 +15170,7 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D2.0mm"
+	(footprint "Library:TestPoint_Pad_D2.0mm"
 		(layer "F.Cu")
 		(uuid "f625f970-643e-4dc7-b3ed-d34d0cb8ded0")
 		(at 87.945259 40.01434)
@@ -15263,7 +15263,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric"
+	(footprint "Library:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "f67180c3-89f5-412a-9ce8-4a0e1e2a754a")
 		(at 96.45 72.57 180)
@@ -15462,7 +15462,7 @@
 			)
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "fa95b9f3-b216-454f-9e19-20e2fc66aa63")
 		(at 100.195259 60.36434 -90)
@@ -15746,7 +15746,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23"
+	(footprint "Library:SOT-23"
 		(layer "F.Cu")
 		(uuid "fd486c10-a0fe-4fef-bf28-31550688049c")
 		(at 105.9125 70.4)
@@ -16071,7 +16071,7 @@
 			)
 		)
 	)
-	(footprint "Loghi:UniGe_logo"
+	(footprint "Library:UniGe_logo"
 		(layer "F.Cu")
 		(uuid "ffd5e2fa-267a-405c-b37b-fab9fd0faee6")
 		(at 86.829176 71.564451)
