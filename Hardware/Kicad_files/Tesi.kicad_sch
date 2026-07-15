@@ -4595,9 +4595,9 @@
 		)
 		(uuid "cd312e25-4b4e-4067-ab3f-a62bb1db237b")
 	)
-	(text "Pull-down resistor\nwhen USB unplugged"
+	(text "Pull-down resistor\nwhen VBUS unplugged"
 		(exclude_from_sim no)
-		(at 18.288 146.05 0)
+		(at 17.018 146.05 0)
 		(effects
 			(font
 				(size 1.27 1.27)

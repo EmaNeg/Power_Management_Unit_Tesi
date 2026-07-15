@@ -3605,7 +3605,7 @@
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1.6 1.2 1)
+				(xyz 1.4 1.2 1)
 			)
 			(rotate
 				(xyz -0 -0 -0)
@@ -4427,6 +4427,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10073,6 +10074,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
