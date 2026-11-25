@@ -1,0 +1,319 @@
+(footprint "FS8205"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "FS8205")
+	(tags "MOSFET (N-Channel)")
+	(property "Reference" "REF**"
+		(at 0.635 2.33 0)
+		(layer "F.SilkS")
+		(uuid "5b1937b7-4701-4c54-9458-158a1e8178d8")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.2)
+			)
+		)
+	)
+	(property "Value" "FS8205"
+		(at 0.275 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "077baaa5-ab5d-4938-9b23-6b6d1a211bf6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.ic-fortune.com/upload/Download/FS8205-DS-19_EN.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "981659e0-d656-4149-a3e0-2e5deb64adfb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "DUAL N-CHANNEL ENHANCEMENT MODE POWER MOFSET"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "28093495-c7e4-40f7-9385-d193855d7168")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "1"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5f9b03f-1faf-450c-a955-614cf8b92a2b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Fortune Semiconductor Corporation"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a0f72ff3-2031-4547-a3b5-a9e8dd17e461")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "FS8205"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6faa39f1-06cb-4d54-8c6e-ad92027b00dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8bc7f619-a5e4-4d6c-8af8-8fcb5ba76140")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8eadc350-7e3a-4843-823a-3fe6c7b98099")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b5eda16f-3f8e-4cea-be92-4c1b0aeb2456")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "589db941-b73c-47c4-9fd4-5a95ff928ab2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.85 -1)
+		(end -1.85 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4ac6681-def7-4dce-99e1-3abdd8a68e3e")
+	)
+	(fp_line
+		(start -1.85 -0.8)
+		(end -1.85 -0.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b8bc2cb0-3494-40cd-8c34-72d1821aeb9e")
+	)
+	(fp_line
+		(start -0.65 -1.45)
+		(end 1.95 -1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4f4d2351-1ea7-4955-8cf0-a211febacd44")
+	)
+	(fp_line
+		(start -0.65 1.45)
+		(end 1.8 1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "311d3c9f-6590-49bc-a1bf-fa4f340c19c2")
+	)
+	(fp_arc
+		(start -1.85 -1)
+		(mid -1.75 -0.9)
+		(end -1.85 -0.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "205c9cdf-1950-4c94-af68-36c9e9670f19")
+	)
+	(fp_arc
+		(start -1.85 -0.8)
+		(mid -1.95 -0.9)
+		(end -1.85 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "db00d304-abf6-4e96-ac28-0998c507f398")
+	)
+	(fp_rect
+		(start -1.39 -1.68)
+		(end 2.72 1.7)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "837d8472-273a-4e03-8506-9d13418d049d")
+	)
+	(fp_line
+		(start -0.65 -1.45)
+		(end 1.95 -1.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7b18bba2-9baa-46d8-a0f5-b6fc6265519e")
+	)
+	(fp_line
+		(start -0.65 1.45)
+		(end -0.65 -1.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ad1c8105-9571-4528-9898-44ad1d2e81aa")
+	)
+	(fp_line
+		(start 1.95 -1.45)
+		(end 1.95 1.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "461ede86-caa5-493b-84e4-29384e5e5daf")
+	)
+	(fp_line
+		(start 1.95 1.45)
+		(end -0.65 1.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "84d0bc8f-af16-4efe-a95d-1c2db7732120")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.275 0 0)
+		(layer "F.Fab")
+		(uuid "ba0a19a8-e8a3-4660-af15-e8f94be30a62")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.5 -0.95 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ca6d0b4d-2ffd-41bf-96c2-b0393ddcbe6c")
+	)
+	(pad "2" smd rect
+		(at -0.5 0 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3c6af055-791c-4106-8468-11a8288756fb")
+	)
+	(pad "3" smd rect
+		(at -0.5 0.95 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4e57527b-3b41-4167-ba43-cdb7267579b7")
+	)
+	(pad "4" smd rect
+		(at 1.8 -0.95 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a204d6de-c3ad-4e4a-8cf4-7b4ee6cc393a")
+	)
+	(pad "5" smd rect
+		(at 1.8 0 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ed4c4685-c948-44d0-8cf0-3af50c6da6a0")
+	)
+	(pad "6" smd rect
+		(at 1.8 0.95 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2b2cb03d-a5dd-4c61-956a-40e49555ed8c")
+	)
+	(embedded_fonts no)
+	(model "FS8205.stp"
+		(offset
+			(xyz 0.6100000051 0 0.879999982)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -180 0 -90)
+		)
+	)
+)

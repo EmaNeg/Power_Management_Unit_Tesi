@@ -1,0 +1,220 @@
+(footprint "Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm")
+	(tags "solder Pin_ with flat fork")
+	(property "Reference" "REF**"
+		(at 0 1.8 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "732fa710-99b9-4c63-b338-e32a990129ee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Qstart"
+		(at 0 -1.8 0)
+		(layer "F.Fab")
+		(uuid "70804cca-57f4-4ba5-b6ac-7a68bb8f6408")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0457e9e4-d5ba-4568-b5ed-edbb0d74a0c4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "test point"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7af89006-7986-4581-88a2-206c2b93af22")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -0.95 -0.95)
+		(end -0.95 0.95)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "98623ed6-7a8a-42d9-8fdc-bcb0131145f8")
+	)
+	(fp_line
+		(start -0.95 0.95)
+		(end 0.9 0.95)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "32f781bf-5836-4441-8790-883f534b7daa")
+	)
+	(fp_line
+		(start 0.9 -0.95)
+		(end -0.95 -0.95)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e49d331e-cd4a-4714-85eb-29f3a142ffca")
+	)
+	(fp_line
+		(start 0.9 -0.9)
+		(end 0.9 -0.95)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "44890f9e-2f4d-4c6a-999e-653d8854c041")
+	)
+	(fp_line
+		(start 0.9 0.95)
+		(end 0.9 -0.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "07686103-9330-4ab5-ba4b-cbfdc49f2d25")
+	)
+	(fp_line
+		(start -1.4 -1.2)
+		(end -1.4 1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ba52a85f-a20c-46f4-8a8f-d86585ea7a9c")
+	)
+	(fp_line
+		(start -1.4 -1.2)
+		(end 1.35 -1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8923896b-a287-419a-ad8e-d0de6fbef2b9")
+	)
+	(fp_line
+		(start 1.35 1.2)
+		(end -1.4 1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f2ed3401-c02e-415e-8823-31bb1f1a3b42")
+	)
+	(fp_line
+		(start 1.35 1.2)
+		(end 1.35 -1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "16f2e0ea-1588-472b-8468-eacbd358e7fa")
+	)
+	(fp_line
+		(start -0.9 -0.25)
+		(end 0.85 -0.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8209d3f6-4ce6-41ac-b7cd-3e93782bfa37")
+	)
+	(fp_line
+		(start -0.9 0.25)
+		(end -0.9 -0.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bb820a4f-84fd-46d2-b931-97a2f149ac63")
+	)
+	(fp_line
+		(start 0.85 -0.25)
+		(end 0.85 0.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f346d8a8-7e2f-4317-92c4-bf71111dc1a5")
+	)
+	(fp_line
+		(start 0.85 0.25)
+		(end -0.9 0.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "737a0a3d-96ce-4d4c-bb9c-c5c0e9a2d6c2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 1.8 0)
+		(layer "F.Fab")
+		(uuid "3954603a-2a9b-4621-b017-d4f1b5cbddc0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.4 1.4)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "27bf8b84-bf69-4030-97f9-5638cd8f1253")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork.step"
+		(hide yes)
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
